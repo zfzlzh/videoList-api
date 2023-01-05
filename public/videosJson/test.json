@@ -1,0 +1,272 @@
+[
+    {
+        "preview": "E:\\AOS\\IoT\\SourceCode\\Frontend\\aos-portal-webui\\src\\views\\dashBoard\\BoilerColony.vue",
+        "id": "16376472735825413151803664673",
+        "name": "BoilerColony.vue"
+    },
+    {
+        "preview": "E:\\AOS\\IoT\\SourceCode\\Frontend\\aos-portal-webui\\src\\views\\dashBoard\\BoilerColonyDislog.vue",
+        "id": "16376472735822641738516689416",
+        "name": "BoilerColonyDislog.vue"
+    },
+    {
+        "preview": "E:\\AOS\\IoT\\SourceCode\\Frontend\\aos-portal-webui\\src\\views\\dashBoard\\BoilerProject.vue",
+        "id": "16376472735829218849116942258",
+        "name": "BoilerProject.vue"
+    },
+    {
+        "preview": "E:\\AOS\\IoT\\SourceCode\\Frontend\\aos-portal-webui\\src\\views\\dashBoard\\BoilerProjectBig.vue",
+        "id": "16376472735827943830960369145",
+        "name": "BoilerProjectBig.vue"
+    },
+    {
+        "preview": "E:\\AOS\\IoT\\SourceCode\\Frontend\\aos-portal-webui\\src\\views\\dashBoard\\BoilerQuality.vue",
+        "id": "163764727358226024572819633685",
+        "name": "BoilerQuality.vue"
+    },
+    {
+        "preview": "E:\\AOS\\IoT\\SourceCode\\Frontend\\aos-portal-webui\\src\\views\\dashBoard\\BSbig.vue",
+        "id": "16376472735822628559817258447",
+        "name": "BSbig.vue"
+    },
+    {
+        "preview": "E:\\AOS\\IoT\\SourceCode\\Frontend\\aos-portal-webui\\src\\views\\dashBoard\\Btlbig.vue",
+        "id": "163764727358239226524799334617",
+        "name": "Btlbig.vue"
+    },
+    {
+        "preview": "E:\\AOS\\IoT\\SourceCode\\Frontend\\aos-portal-webui\\src\\views\\dashBoard\\ccj1.mp4",
+        "id": "163764727358233066146985186284",
+        "name": "ccj1.mp4"
+    },
+    {
+        "preview": "E:\\AOS\\IoT\\SourceCode\\Frontend\\aos-portal-webui\\src\\views\\dashBoard\\ccj9.mp4",
+        "id": "16376472735828760158794754032",
+        "name": "ccj9.mp4"
+    },
+    {
+        "preview": "E:\\AOS\\IoT\\SourceCode\\Frontend\\aos-portal-webui\\src\\views\\dashBoard\\HeatPumpProjectBig.vue",
+        "id": "16376472735823783110176374196",
+        "name": "HeatPumpProjectBig.vue"
+    },
+    {
+        "preview": "E:\\AOS\\IoT\\SourceCode\\Frontend\\aos-portal-webui\\src\\views\\dashBoard\\JSON\\11.json",
+        "id": "16376472735833187470217295212",
+        "name": "11.json"
+    },
+    {
+        "preview": "E:\\AOS\\IoT\\SourceCode\\Frontend\\aos-portal-webui\\src\\views\\dashBoard\\JSON\\12.json",
+        "id": "163764727358338324777193523185",
+        "name": "12.json"
+    },
+    {
+        "preview": "E:\\AOS\\IoT\\SourceCode\\Frontend\\aos-portal-webui\\src\\views\\dashBoard\\JSON\\13.json",
+        "id": "163764727358311485018529340962",
+        "name": "13.json"
+    },
+    {
+        "preview": "E:\\AOS\\IoT\\SourceCode\\Frontend\\aos-portal-webui\\src\\views\\dashBoard\\JSON\\14.json",
+        "id": "16376472735835843210122191391",
+        "name": "14.json"
+    },
+    {
+        "preview": "E:\\AOS\\IoT\\SourceCode\\Frontend\\aos-portal-webui\\src\\views\\dashBoard\\JSON\\15.json",
+        "id": "163764727358319599744438251765",
+        "name": "15.json"
+    },
+    {
+        "preview": "E:\\AOS\\IoT\\SourceCode\\Frontend\\aos-portal-webui\\src\\views\\dashBoard\\JSON\\21.json",
+        "id": "1637647273583017808990184890572",
+        "name": "21.json"
+    },
+    {
+        "preview": "E:\\AOS\\IoT\\SourceCode\\Frontend\\aos-portal-webui\\src\\views\\dashBoard\\JSON\\22.json",
+        "id": "16376472735837322579090661667",
+        "name": "22.json"
+    },
+    {
+        "preview": "E:\\AOS\\IoT\\SourceCode\\Frontend\\aos-portal-webui\\src\\views\\dashBoard\\JSON\\23.json",
+        "id": "16376472735835562583439110391",
+        "name": "23.json"
+    },
+    {
+        "preview": "E:\\AOS\\IoT\\SourceCode\\Frontend\\aos-portal-webui\\src\\views\\dashBoard\\JSON\\31.json",
+        "id": "16376472735834207357608956912",
+        "name": "31.json"
+    },
+    {
+        "preview": "E:\\AOS\\IoT\\SourceCode\\Frontend\\aos-portal-webui\\src\\views\\dashBoard\\JSON\\32.json",
+        "id": "163764727358346750290062768607",
+        "name": "32.json"
+    },
+    {
+        "preview": "E:\\AOS\\IoT\\SourceCode\\Frontend\\aos-portal-webui\\src\\views\\dashBoard\\JSON\\33.json",
+        "id": "16376472735835146843939315224",
+        "name": "33.json"
+    },
+    {
+        "preview": "E:\\AOS\\IoT\\SourceCode\\Frontend\\aos-portal-webui\\src\\views\\dashBoard\\JSON\\34.json",
+        "id": "163764727358318654976583978367",
+        "name": "34.json"
+    },
+    {
+        "preview": "E:\\AOS\\IoT\\SourceCode\\Frontend\\aos-portal-webui\\src\\views\\dashBoard\\JSON\\35.json",
+        "id": "1637647273584656928541225714",
+        "name": "35.json"
+    },
+    {
+        "preview": "E:\\AOS\\IoT\\SourceCode\\Frontend\\aos-portal-webui\\src\\views\\dashBoard\\JSON\\36.json",
+        "id": "16376472735848414423840682073",
+        "name": "36.json"
+    },
+    {
+        "preview": "E:\\AOS\\IoT\\SourceCode\\Frontend\\aos-portal-webui\\src\\views\\dashBoard\\JSON\\37.json",
+        "id": "16376472735843428973148340717",
+        "name": "37.json"
+    },
+    {
+        "preview": "E:\\AOS\\IoT\\SourceCode\\Frontend\\aos-portal-webui\\src\\views\\dashBoard\\JSON\\41.json",
+        "id": "16376472735843611402347800452",
+        "name": "41.json"
+    },
+    {
+        "preview": "E:\\AOS\\IoT\\SourceCode\\Frontend\\aos-portal-webui\\src\\views\\dashBoard\\JSON\\42.json",
+        "id": "16376472735846241284108206531",
+        "name": "42.json"
+    },
+    {
+        "preview": "E:\\AOS\\IoT\\SourceCode\\Frontend\\aos-portal-webui\\src\\views\\dashBoard\\JSON\\43.json",
+        "id": "16376472735848876156958574992",
+        "name": "43.json"
+    },
+    {
+        "preview": "E:\\AOS\\IoT\\SourceCode\\Frontend\\aos-portal-webui\\src\\views\\dashBoard\\JSON\\44.json",
+        "id": "16376472735845962977280630701",
+        "name": "44.json"
+    },
+    {
+        "preview": "E:\\AOS\\IoT\\SourceCode\\Frontend\\aos-portal-webui\\src\\views\\dashBoard\\JSON\\45.json",
+        "id": "16376472735848862001417474041",
+        "name": "45.json"
+    },
+    {
+        "preview": "E:\\AOS\\IoT\\SourceCode\\Frontend\\aos-portal-webui\\src\\views\\dashBoard\\JSON\\46.json",
+        "id": "16376472735846884741532978638",
+        "name": "46.json"
+    },
+    {
+        "preview": "E:\\AOS\\IoT\\SourceCode\\Frontend\\aos-portal-webui\\src\\views\\dashBoard\\JSON\\50.json",
+        "id": "1637647273584082144174678628",
+        "name": "50.json"
+    },
+    {
+        "preview": "E:\\AOS\\IoT\\SourceCode\\Frontend\\aos-portal-webui\\src\\views\\dashBoard\\JSON\\51.json",
+        "id": "16376472735848015543706902215",
+        "name": "51.json"
+    },
+    {
+        "preview": "E:\\AOS\\IoT\\SourceCode\\Frontend\\aos-portal-webui\\src\\views\\dashBoard\\JSON\\52.json",
+        "id": "16376472735845824009539457713",
+        "name": "52.json"
+    },
+    {
+        "preview": "E:\\AOS\\IoT\\SourceCode\\Frontend\\aos-portal-webui\\src\\views\\dashBoard\\JSON\\53.json",
+        "id": "16376472735843492845302681251",
+        "name": "53.json"
+    },
+    {
+        "preview": "E:\\AOS\\IoT\\SourceCode\\Frontend\\aos-portal-webui\\src\\views\\dashBoard\\JSON\\54.json",
+        "id": "16376472735842631607722367708",
+        "name": "54.json"
+    },
+    {
+        "preview": "E:\\AOS\\IoT\\SourceCode\\Frontend\\aos-portal-webui\\src\\views\\dashBoard\\JSON\\61.json",
+        "id": "16376472735841646775231282933",
+        "name": "61.json"
+    },
+    {
+        "preview": "E:\\AOS\\IoT\\SourceCode\\Frontend\\aos-portal-webui\\src\\views\\dashBoard\\JSON\\62.json",
+        "id": "16376472735854590548411695603",
+        "name": "62.json"
+    },
+    {
+        "preview": "E:\\AOS\\IoT\\SourceCode\\Frontend\\aos-portal-webui\\src\\views\\dashBoard\\JSON\\63.json",
+        "id": "1637647273585926370227029842",
+        "name": "63.json"
+    },
+    {
+        "preview": "E:\\AOS\\IoT\\SourceCode\\Frontend\\aos-portal-webui\\src\\views\\dashBoard\\JSON\\64.json",
+        "id": "16376472735857769903383643675",
+        "name": "64.json"
+    },
+    {
+        "preview": "E:\\AOS\\IoT\\SourceCode\\Frontend\\aos-portal-webui\\src\\views\\dashBoard\\JSON\\65.json",
+        "id": "163764727358510832931867686857",
+        "name": "65.json"
+    },
+    {
+        "preview": "E:\\AOS\\IoT\\SourceCode\\Frontend\\aos-portal-webui\\src\\views\\dashBoard\\JSON\\71.json",
+        "id": "16376472735859928634332019057",
+        "name": "71.json"
+    },
+    {
+        "preview": "E:\\AOS\\IoT\\SourceCode\\Frontend\\aos-portal-webui\\src\\views\\dashBoard\\JSON\\81.json",
+        "id": "16376472735851347020603363045",
+        "name": "81.json"
+    },
+    {
+        "preview": "E:\\AOS\\IoT\\SourceCode\\Frontend\\aos-portal-webui\\src\\views\\dashBoard\\JSON\\82.json",
+        "id": "16376472735855540986440876117",
+        "name": "82.json"
+    },
+    {
+        "preview": "E:\\AOS\\IoT\\SourceCode\\Frontend\\aos-portal-webui\\src\\views\\dashBoard\\JSON\\beijing.JSON",
+        "id": "16376472735855948522351297263",
+        "name": "beijing.JSON"
+    },
+    {
+        "preview": "E:\\AOS\\IoT\\SourceCode\\Frontend\\aos-portal-webui\\src\\views\\dashBoard\\WaterAfterSale.vue",
+        "id": "16376472735854404464239783501",
+        "name": "WaterAfterSale.vue"
+    },
+    {
+        "preview": "E:\\AOS\\IoT\\SourceCode\\Frontend\\aos-portal-webui\\src\\views\\dashBoard\\WaterColony.vue",
+        "id": "16376472735855452440246523069",
+        "name": "WaterColony.vue"
+    },
+    {
+        "preview": "E:\\AOS\\IoT\\SourceCode\\Frontend\\aos-portal-webui\\src\\views\\dashBoard\\WaterColony2.vue",
+        "id": "163764727358508064948764701074",
+        "name": "WaterColony2.vue"
+    },
+    {
+        "preview": "E:\\AOS\\IoT\\SourceCode\\Frontend\\aos-portal-webui\\src\\views\\dashBoard\\WaterColonyDislog.vue",
+        "id": "163764727358542515050801474796",
+        "name": "WaterColonyDislog.vue"
+    },
+    {
+        "preview": "E:\\AOS\\IoT\\SourceCode\\Frontend\\aos-portal-webui\\src\\views\\dashBoard\\WaterProject.vue",
+        "id": "163764727358516469506283931934",
+        "name": "WaterProject.vue"
+    },
+    {
+        "preview": "E:\\AOS\\IoT\\SourceCode\\Frontend\\aos-portal-webui\\src\\views\\dashBoard\\WaterProjectBig.vue",
+        "id": "16376472735852212681166619801",
+        "name": "WaterProjectBig.vue"
+    },
+    {
+        "preview": "E:\\AOS\\IoT\\SourceCode\\Frontend\\aos-portal-webui\\src\\views\\dashBoard\\WaterQualityBig.vue",
+        "id": "16376472735858036608543203319",
+        "name": "WaterQualityBig.vue"
+    },
+    {
+        "preview": "E:\\AOS\\IoT\\SourceCode\\Frontend\\aos-portal-webui\\src\\views\\dashBoard\\waterQualityData.json",
+        "id": "16376472735869135946170292595",
+        "name": "waterQualityData.json"
+    },
+    {
+        "preview": "E:\\AOS\\IoT\\SourceCode\\Frontend\\aos-portal-webui\\src\\views\\dashBoard\\WaterSales.vue",
+        "id": "16376472735863476665603764062",
+        "name": "WaterSales.vue"
+    }
+]
